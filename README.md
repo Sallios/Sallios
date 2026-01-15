@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1500&color=47D3F7&center=true&width=500&lines=HELLO;I'M+DAWID+%22SALLIOS%22+OLI%C5%83SKI;SOFTWARE+DEVELOPER;C%2B%2B+%26+PYTHON+FOCUSED;AI%2FML+ENTHUSIAST" alt="Typing SVG" /></a>
+<img src="header.png">
 </p>
 
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -55,11 +55,6 @@
   </tbody>
 </table>
 </div>
-
-<h2 align="center">📈 GitHub Stats</h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sallios&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"><br/>
-</p>
 
 <h2 align="center">📫 Contact</h2>
 <p align="center">
